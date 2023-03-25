@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Kassy0220/tsurukame_zan/issues"
   },
-  "homepage": "https://github.com/Kassy0220/tsurukame_zan#readme"
+  "homepage": "https://github.com/Kassy0220/tsurukame_zan#readme",
+  "devDependencies": {
+    "eslint": "^8.36.0"
+  }
 }
