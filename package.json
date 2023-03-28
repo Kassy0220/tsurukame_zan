@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
+  "bin": {
+    "tsurukame_zan": "bin/tsurukame_zan.js"
+  },
   "scripts": {
     "lint": "prettier --check . && eslint ."
   },
