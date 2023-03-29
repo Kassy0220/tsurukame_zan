@@ -1,8 +1,7 @@
 {
   "name": "tsurukame_zan",
   "version": "0.1.0",
-  "description": "",
-  "main": "index.js",
+  "description": "You can play calculation games and learn the traditional Japanese math problem 'Tsurukame-zan'.",
   "bin": {
     "tsurukame_zan": "bin/tsurukame_zan.js"
   },
@@ -13,6 +12,11 @@
     "type": "git",
     "url": "git+https://github.com/Kassy0220/tsurukame_zan.git"
   },
+  "keywords": [
+    "game",
+    "calculation",
+    "tsurukame-zan"
+  ],
   "author": "Kassy0220",
   "license": "MIT",
   "bugs": {
