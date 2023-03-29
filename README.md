@@ -17,6 +17,7 @@ tsurukame_zan
 ```
 
 アプリが起動すると、モード選択画面が表示されます。
+
 [![Image from Gyazo](https://i.gyazo.com/6e4e0cfb189d3ae3531d996f5afb4eb5.png)](https://gyazo.com/6e4e0cfb189d3ae3531d996f5afb4eb5)
 
 このアプリでは、次の 3 つのモードで遊ぶことが出来ます。
@@ -24,7 +25,9 @@ tsurukame_zan
 ### 基本モード
 
 基本モードでは、つるかめ算が出題されます。
+
 つるとかめの数をそれぞれ入力すると、答え合わせをすることができます。
+
 [![Image from Gyazo](https://i.gyazo.com/828a1aa2ee8d4c58097f98abbdc5e779.gif)](https://gyazo.com/828a1aa2ee8d4c58097f98abbdc5e779)
 
 答え合わせを行った後は、次の選択肢が表示されるので、行いたい操作を選択して下さい。
@@ -55,6 +58,7 @@ tsurukame_zan
 ### タイムアタックモード
 
 タイムアタックモードでは、まず初めに待機画面が表示されます。
+
 待機画面では、タイムアタックの説明と現在のハイスコアを確認することができます。
 
 [![Image from Gyazo](https://i.gyazo.com/b7bd3055c02d7eb0bb48e91aebcec97d.png)](https://gyazo.com/b7bd3055c02d7eb0bb48e91aebcec97d)
@@ -63,9 +67,11 @@ tsurukame_zan
 
 タイムアタックでは連続してつるかめ算が出題され、
 5 問正解するまでにかかった時間がスコアになります。
+
 ただし、問題を間違えると、**間違えた数 x 5 秒スコアに加算**されるので注意してください。
 
 5 問正解すると、スコアが表示されます。
+
 [![Image from Gyazo](https://i.gyazo.com/b2c3f26e1ceaa6d4bf5a49adc05d7979.png)](https://gyazo.com/b2c3f26e1ceaa6d4bf5a49adc05d7979)
 
 また、次の選択肢が表示されるので、行いたい操作を選択して下さい。
